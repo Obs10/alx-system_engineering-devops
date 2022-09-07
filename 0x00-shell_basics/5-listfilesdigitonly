@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -me
-
+lls -ma
